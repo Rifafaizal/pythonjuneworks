@@ -1,0 +1,39 @@
+#identifiers
+#simply name is called identifiers
+#print()-function name,display a msg in console
+#input()-
+#variable-snkecase
+#class
+#packagename-collecion of module
+#modulename
+#case sensitive
+#notations
+
+
+
+#variables
+#named memory location
+#syntax-variable_name=value
+eg:  employee_name="rifa     #str"
+print(emplpoyee_name)
+ employee_name=123        #int dynmcly typed
+
+
+
+#  datatype:
+#  primitive-
+     #int
+     #float
+     #double
+     #boolean
+     #double
+     #void
+     #string
+ 
+ collection-
+ 
+ 
+
+
+
+

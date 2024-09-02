@@ -1,0 +1,10 @@
+n1=(int(input("enter n1-")))
+n2=(int(input("enter n2-")))
+sum=n1+n2
+print(f"{n1}+{n2}={sum}")
+diffr=n1-n2
+print(f"{n1}-{n2}={diffr}")
+mul=n1*n2
+print(f"{n1}*{n2}={mul}")
+div=n1/n2
+print(f"{n1}/{n2}={div}")

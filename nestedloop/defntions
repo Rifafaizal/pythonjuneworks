@@ -1,0 +1,14 @@
+#looping
+#for
+#nested
+#while
+
+
+# while Syntax:
+    # initialization
+    # while(condition):
+    # loop body
+    #inc/Dec  
+# for i in range(start,end,step) :
+       #loop body 
+#functions    
